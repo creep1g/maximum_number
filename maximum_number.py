@@ -1,4 +1,8 @@
 #Algorithm that finds the maximum positive integer input by a user.
+'''
+This algorithm uses comparison to determine if number n 
+is larger or smaller than previously added number
+'''
 bool_controller = True
 max_int = 0
 while bool_controller == True:
